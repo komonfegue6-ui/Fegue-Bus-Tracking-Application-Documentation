@@ -18,7 +18,7 @@ A real-time bus tracking system using AWS serverless services.
 - **Target Audience**: Developers, potential collaborators, and future maintainers.
 
 ## System Architecture
-- **Architecture Diagram**: [Link to Lucidchart Diagram](Fegue.png)
+- ![Architecture Diagram](Fegue.png)
 - **Components**:
   - **Bus Device (Simulated)**: Sends location data via MQTT to AWS IoT Core.
   - **AWS IoT Core**: Receives location data and triggers a Lambda function.
